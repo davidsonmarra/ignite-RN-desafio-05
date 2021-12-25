@@ -31,6 +31,12 @@ Essa é uma aplicação em que consumimos a API do GitHub e exibismos informa
   <li>Animações</li>
 </ul>
 
+<h3 id="resultado">Resultado</h3>
+<div align="center">
+
+https://user-images.githubusercontent.com/80720221/147392358-524b4d19-19c7-48a4-988c-079f43895ef1.mp4
+
+</div>
 
 <h3 id="executar">Como executar</h3>
 
