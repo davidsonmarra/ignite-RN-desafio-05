@@ -18,7 +18,7 @@
 <h3 id="sobre">Sobre</h3>
 <p>Este é o quinto desafio da trilha de React Native do Ignite da Rocketseat! 🚀</p>
 
-Essa é uma aplicação em que consumimos a API do GitHub e exibismos informações de qualquer repositório público a partir da busca pelo `usuario/nome-do-repositorio`, exemplo: `facebook/react`.
+Essa é uma aplicação em que consumimos a API do GitHub e exibimos informações de qualquer repositório público a partir da busca pelo `usuario/nome-do-repositorio`, exemplo: `facebook/react`.
 
 
 <h3 id="funcionalidades">Funcionalidades</h3>
