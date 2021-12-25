@@ -13,3 +13,51 @@
  <a href="#executar">Como executar</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+
+<h3 id="sobre">Sobre</h3>
+<p>Este é o quinto desafio da trilha de React Native do Ignite da Rocketseat! 🚀</p>
+
+Essa é uma aplicação em que consumimos a API do GitHub e exibismos informações de qualquer repositório público a partir da busca pelo `usuario/nome-do-repositorio`, exemplo: `facebook/react`.
+
+
+<h3 id="funcionalidades">Funcionalidades</h3>
+<ul>
+  <li>Pesquisar um repositório</li>
+  <li>Listagem de repositórios buscados</li>
+  <li>Consumo da API do GitHub</li>
+  <li>Informações detalhadas sobre um repositório</li>
+  <li>Redirecionamento para a seção de dúvidas de um repositório</li>
+  <li>Animações</li>
+</ul>
+
+
+<h3 id="executar">Como executar</h3>
+
+```bash
+# Clone este repositório
+$ git clone git@github.com:davidsonmarra/ignite-RN-desafio-05.git
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd ignite-RN-desafio-05
+# Instale as dependências
+$ yarn install
+# Inicialize o aplicativo com o expo
+$ expo start
+# Escaneie o QR Code e inicialize o app no próprio dispositivo
+```
+
+---
+
+<h3 id="autor">Autor</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/davidsonmarra">
+        <img src="https://github.com/davidsonmarra.png?size=100" width="100px;" alt="Davidson Marra"/><br>
+        <sub>
+          <b>Davidson Marra</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
